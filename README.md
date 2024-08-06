@@ -1,3 +1,3 @@
 # Dotfiles
 
-Dotfiles used on my LeanIX Macbook
+Dotfiles used on my Macbook
